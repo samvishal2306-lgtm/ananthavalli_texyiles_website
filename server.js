@@ -160,7 +160,7 @@ const defaultProducts = [
     "currentPrice": 1350,
     "tag": "Sale",
     "discount": "32% OFF",
-    "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?auto=format&fit=crop&q=80&w=600&id=pavadai",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=%2fQ3HkE4E&id=272E8A56DC7914E0799EC7EEE5C246D6F7F0284B&thid=OIP._Q3HkE4Eye7iD4qEB90hLQHaHa&mediaurl=https%3a%2f%2fae01.alicdn.com%2fkf%2fHTB1LjfvRVXXXXaWXpXXq6xXFXXXo%2f2016-Summer-New-Kids-Clothes-Baby-Girls-Princess-Dress-Floral-Short-Sleeve-Children-Clothing-Bow-Voile.jpg&exph=1600&expw=1600&q=kids+wear&FORM=IRPRST&ck=90B4E7ECC45183B1250EC7F02A6F2633&selectedIndex=21&itb=0",
     "description": "Traditional South Indian pattu pavadai (lehenga choli) for girls. Made with soft silk-blend fabric that is gentle on skin, featuring bright festive colors.",
     "features": ["Soft Silk Blend", "Cotton Inner Lining", "Traditional Border", "Adjustable Drawstring"]
   },
