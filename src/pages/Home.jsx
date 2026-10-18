@@ -100,7 +100,7 @@ export const Home = () => {
       id: "kids-wear",
       title: "Kids Collections",
       desc: "Pavadai Satinis & Boys Kurtas",
-      image: "https://lagorii.com/cdn/shop/files/mobile-ethnic-wear-menuall.jpg?v=485471540161987417",
+      image: "https://images.pexels.com/photos/1620760/pexels-photo-1620760.jpeg?cs=srgb&dl=pexels-victoria-akvarel-1620760.jpg&fm=jpg",
       count: products.filter(p => p.category === "kids-wear").length
     }
   ];
