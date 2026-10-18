@@ -86,21 +86,21 @@ export const Home = () => {
       id: "womens-wear",
       title: "Women's Wear",
       desc: "Lehengas, Anarkalis & Salwars",
-      image: "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=600",
+      image: "https://cdn.pixabay.com/photo/2022/12/04/07/03/woman-7633843_1280.jpg",
       count: products.filter(p => p.category === "womens-wear").length
     },
     {
       id: "mens-wear",
       title: "Men's Wear",
       desc: "Kurta Pyjamas, Veshtis & Shirts",
-      image: "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600",
+      image: "https://www.charchaand.com/cdn/shop/files/AC2I4066.webp?v=1698476725",
       count: products.filter(p => p.category === "mens-wear").length
     },
     {
       id: "kids-wear",
       title: "Kids Collections",
       desc: "Pavadai Satinis & Boys Kurtas",
-      image: "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?auto=format&fit=crop&q=80&w=600",
+      image: "https://lagorii.com/cdn/shop/files/mobile-ethnic-wear-menuall.jpg?v=485471540161987417",
       count: products.filter(p => p.category === "kids-wear").length
     }
   ];
