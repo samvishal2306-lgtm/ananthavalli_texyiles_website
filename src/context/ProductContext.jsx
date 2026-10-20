@@ -14,7 +14,7 @@ export const defaultProducts = [
     "currentPrice": 8500,
     "tag": "Hot",
     "discount": "29% OFF",
-    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=600",
+    "image":" https://lh7-us.googleusercontent.com/QoiXmQZ7eceV3aqMTXZHRmFIVfcfJf65PCYEkOFYzBW42QHfIEDkmLi_pWd56_c4A0iXxOu5xiib9S8AiAGV9Uj8cFOyIJOmI6x61NRT1hFDkeXm7gVtT8SG9l0DBnlLA1g-ErIszcxgBMmy8L4At9g",
     "description": "Exquisite hand-woven pure silk bridal saree with intricate golden zari work, traditional motifs, and a rich pallu. Perfect for weddings and auspicious occasions.",
     "features": ["100% Pure Silk", "Zari Border", "Include Blouse Piece", "Dry Clean Only"]
   },
