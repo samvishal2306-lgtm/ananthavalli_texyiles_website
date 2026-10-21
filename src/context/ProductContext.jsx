@@ -14,7 +14,7 @@ export const defaultProducts = [
     "currentPrice": 8500,
     "tag": "Hot",
     "discount": "29% OFF",
-    "image":" https://lh7-us.googleusercontent.com/QoiXmQZ7eceV3aqMTXZHRmFIVfcfJf65PCYEkOFYzBW42QHfIEDkmLi_pWd56_c4A0iXxOu5xiib9S8AiAGV9Uj8cFOyIJOmI6x61NRT1hFDkeXm7gVtT8SG9l0DBnlLA1g-ErIszcxgBMmy8L4At9g",
+    "image":" https://i.pinimg.com/736x/8c/69/72/8c697236d584e4025039fd012316a9f0.jpg",
     "description": "Exquisite hand-woven pure silk bridal saree with intricate golden zari work, traditional motifs, and a rich pallu. Perfect for weddings and auspicious occasions.",
     "features": ["100% Pure Silk", "Zari Border", "Include Blouse Piece", "Dry Clean Only"]
   },
@@ -29,7 +29,7 @@ export const defaultProducts = [
     "currentPrice": 3800,
     "tag": "Sale",
     "discount": "24% OFF",
-    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600",
+    "image": "https://www.taneira.com/dw/image/v2/BKMH_PRD/on/demandware.static/-/Sites-Taneira-product-catalog/default/dwb411a25e/images/Taneira/Catalog/SHG08A01045_1.jpg?sw=1000&sh=1500",
     "description": "Lightweight and comfortable soft silk saree featuring elegant floral patterns and modern border styling. Ideal for festivals and social gatherings.",
     "features": ["Soft Silk Blend", "Easy to Drape", "Contrast Pallu", "Hand Wash Recommended"]
   },
