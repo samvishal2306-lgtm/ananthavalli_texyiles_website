@@ -74,7 +74,7 @@ export const defaultProducts = [
     "currentPrice": 4500,
     "tag": "Hot",
     "discount": "25% OFF",
-    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=600&id=saree5",
+    "image": "https://th.bing.com/th/id/R.c3ee3b66d3e0653bf47c81faa2bf271b?rik=%2bBSmFOtH%2b29mYA&riu=http%3a%2f%2f5.imimg.com%2fdata5%2fKU%2fMY%2fMY-39097847%2fpure-kanchipuram-silk-sarees.jpg&ehk=WAzUqQ7McfOoqExur%2b0RY83ExXPeDvRUn5sF5q79hhg%3d&risl=&pid=ImgRaw&r=0",
     "description": "A traditional Kanjivaram pattu saree woven with fine silk threads and pure gold-plated zari. Features traditional temple border motifs.",
     "features": ["Certified Kanjivaram Silk", "Heavy Temple Border", "Rich Brocade Pallu", "Silk Mark Certified"]
   },
@@ -89,7 +89,7 @@ export const defaultProducts = [
     "currentPrice": 2200,
     "tag": "New",
     "discount": "37% OFF",
-    "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=600&id=saree6",
+    "image": "https://tse1.explicit.bing.net/th/id/OIP.-T7G44npa5ao-jgTcZa78QHaMv?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "description": "Georgette designer saree featuring beautiful sequin borders and dynamic color shading. Perfect for evening parties and receptions.",
     "features": ["Flowy Georgette Fabric", "All-Over Sequin Border", "Includes Unstitched Blouse", "Gentle Dry Clean"]
   },
@@ -104,7 +104,7 @@ export const defaultProducts = [
     "currentPrice": 1800,
     "tag": "Hot",
     "discount": "28% OFF",
-    "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600&id=anarkali",
+    "image": "https://www.kollybollyethnics.com/image/catalog/data/04Apr2023/Net-long-Anarkali-suit-in-Pink-colour-1002B.jpg",
     "description": "Elegant floor-length Anarkali salwar suit with detailed zari embroidery on the yoke and cuffs. Paired with churidar pants and a dupatta.",
     "features": ["Premium Rayon Fabric", "Zari Embroidery Yoke", "Dupatta Included", "Machine Washable"]
   },
@@ -149,7 +149,7 @@ export const defaultProducts = [
     "currentPrice": 999,
     "tag": "New",
     "discount": "33% OFF",
-    "image": "https://images.unsplash.com/photo-1519689680058-324335c77ebe?auto=format&fit=crop&q=80&w=600",
+    "image": "https://i.pinimg.com/originals/a1/1f/1d/a11f1d09099c307f1287431cb1c51363.jpg",
     "description": "Comfortable and breathable pure cotton kurta pyjama set for boys. Features elegant wooden button details and a comfortable elastic waistband pyjama.",
     "features": ["100% Organic Cotton", "Comfortable Fit", "Elastic Pyjama Waist", "Vibrant Indigo Dye"]
   }
