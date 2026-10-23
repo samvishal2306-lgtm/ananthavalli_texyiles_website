@@ -134,7 +134,7 @@ export const defaultProducts = [
     "currentPrice": 1350,
     "tag": "Sale",
     "discount": "32% OFF",
-    "image": "https://i.pinimg.com/originals/a1/1f/1d/a11f1d09099c307f1287431cb1c51363.jpg",
+    "image": "https://srithulirtex.com/cdn/shop/files/kids-pattu-pavadai-green-top-purple-skirt-sri-thulir-tex_jpg.png?v=1763710058&width=1946",
     "description": "Traditional South Indian pattu pavadai (lehenga choli) for girls. Made with soft silk-blend fabric that is gentle on skin, featuring bright festive colors.",
     "features": ["Soft Silk Blend", "Cotton Inner Lining", "Traditional Border", "Adjustable Drawstring"]
   },
