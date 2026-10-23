@@ -149,7 +149,7 @@ export const defaultProducts = [
     "currentPrice": 999,
     "tag": "New",
     "discount": "33% OFF",
-    "image": "https://i.pinimg.com/originals/a1/1f/1d/a11f1d09099c307f1287431cb1c51363.jpg",
+    "image": "https://i.pinimg.com/originals/50/12/ba/5012baa9b51f04f01deee7a6e965ef8f.jpg",
     "description": "Comfortable and breathable pure cotton kurta pyjama set for boys. Features elegant wooden button details and a comfortable elastic waistband pyjama.",
     "features": ["100% Organic Cotton", "Comfortable Fit", "Elastic Pyjama Waist", "Vibrant Indigo Dye"]
   }
@@ -165,7 +165,7 @@ export const defaultProducts = [
       "currentPrice": 4200,
       "tag": "",
       "discount": "28% OFF",
-      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&q=80&w=600&id=banarasi",
+      "image": "https://assets0.mirraw.com/images/7276132/image_zoom.jpeg?1565184145",
       "description": "Luxury Banarasi silk saree woven with fine silver brocade, featuring traditional paisley border motifs and a rich pallu.",
       "features": [
           "Pure Banarasi Silk",
@@ -185,7 +185,7 @@ export const defaultProducts = [
       "currentPrice": 1800,
       "tag": "",
       "discount": "28% OFF",
-      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600&id=kanchicotton",
+      "image": "https://taranginihandloom.com/cdn/shop/files/FullSizeRender_f8690c1c-eb81-4bc8-b01f-4cd07fe7e6ef.jpg?v=1778329289",
       "description": "Lightweight and breathable handloom cotton saree woven in Kanchipuram. Embellished with a simple gold thread border.",
       "features": [
           "100% Handloom Cotton",
@@ -205,7 +205,7 @@ export const defaultProducts = [
       "currentPrice": 7200,
       "tag": "New",
       "discount": "24% OFF",
-      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=600&id=copperzari",
+      "image": "https://assets0.mirraw.com/images/12722943/image_zoom.jpeg?1722334771",
       "description": "Ultra-modern pure silk saree woven with trending antique copper zari detailing, presenting a unique matte metallic look.",
       "features": [
           "Pure Silk",
@@ -225,7 +225,7 @@ export const defaultProducts = [
       "currentPrice": 2800,
       "tag": "",
       "discount": "30% OFF",
-      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600&id=georgetteanarkali",
+      "image": "https://img.faballey.com/images/Product/XKS01533Z/d4.jpg",
       "description": "Premium georgette Anarkali suit featuring heavy chikankari thread embroidery and mirror work on the body and sleeves.",
       "features": [
           "Georgette Fabric",
@@ -245,7 +245,7 @@ export const defaultProducts = [
       "currentPrice": 2400,
       "tag": "Sale",
       "discount": "31% OFF",
-      "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=600&id=bandhani",
+      "image": "https://tse2.mm.bing.net/th/id/OIP.ZR3nRr5RoPKj-Eg21nYDnAHaI9?r=0&w=846&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3",
       "description": "Flowy traditional Bandhani printed silk gown with a gold foil border and a beautiful matching georgette dupatta.",
       "features": [
           "Art Silk Fabric",
@@ -265,7 +265,7 @@ export const defaultProducts = [
       "currentPrice": 1200,
       "tag": "New",
       "discount": "33% OFF",
-      "image": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&q=80&w=600&id=kurti",
+      "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_75,w_1080/v1/assets/images/2025/NOVEMBER/22/Hk93XNYX_194c8f7451e540a9bb11d6af40dbd067.jpg",
       "description": "Pure cotton daily-wear kurti set with pastel floral prints, paired with matching straight-fit pants and a light mulmul dupatta.",
       "features": [
           "100% Pure Cotton",
@@ -285,7 +285,7 @@ export const defaultProducts = [
       "currentPrice": 2100,
       "tag": "",
       "discount": "30% OFF",
-      "image": "https://images.unsplash.com/photo-1605784401368-5af1d9d6c4dc?auto=format&fit=crop&q=80&w=600&id=kurta",
+      "image": "https://tse1.explicit.bing.net/th/id/OIP.zNxRacyo3ZOJrgwpv6jFNQHaKY?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
       "description": "Elegant art silk kurta pyjama set with delicate thread embroidery on the collar and button placket. Ideal for wedding receptions.",
       "features": [
           "Dupion Art Silk",
@@ -305,7 +305,7 @@ export const defaultProducts = [
       "currentPrice": 1400,
       "tag": "New",
       "discount": "30% OFF",
-      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?auto=format&fit=crop&q=80&w=600&id=linen",
+      "image": "https://i.pinimg.com/originals/30/9d/15/309d15837404b81d44e620a243a28af1.png",
       "description": "High-grade 100% pure linen formal shirt in pastel blue. Naturally breathable, lightweight, and perfect for tropical climates.",
       "features": [
           "100% Pure Linen",
@@ -325,7 +325,7 @@ export const defaultProducts = [
       "currentPrice": 5500,
       "tag": "Hot",
       "discount": "29% OFF",
-      "image": "https://images.unsplash.com/photo-1605784401368-5af1d9d6c4dc?auto=format&fit=crop&q=80&w=600&id=sherwani",
+      "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/22261274/2023/3/9/b819811c-9eb9-4669-b46a-cea92d58e7611678350700531ManyavarMenEmbroideredArtSilkTraditionalSherwaniSet1.jpg",
       "description": "Royal wedding sherwani made from heavy jacquard fabric, featuring intricate hand embroidery on the collar and a matching stole.",
       "features": [
           "Luxury Jacquard Fabric",
@@ -345,7 +345,7 @@ export const defaultProducts = [
       "currentPrice": 1100,
       "tag": "",
       "discount": "31% OFF",
-      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?auto=format&fit=crop&q=80&w=600&id=frock",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/7/327516580/NR/NS/FK/180781643/521-500x500.jpg",
       "description": "Beautiful multi-layered net designer frock for girls with soft satin lining and sequin sash detail. Ideal for birthdays and parties.",
       "features": [
           "Soft Multi-Layer Net",
@@ -365,7 +365,7 @@ export const defaultProducts = [
       "currentPrice": 1650,
       "tag": "Hot",
       "discount": "31% OFF",
-      "image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?auto=format&fit=crop&q=80&w=600&id=kidssherwani",
+      "image": "https://assets.myntassets.com/h_200,w_200,c_fill,g_auto/h_1440,q_100,w_1080/v1/assets/images/30281647/2024/7/20/5cfd8a7b-0a47-4c5f-a1fc-82da048c57261721456748299BTDEZINESBoysJacquardEmbroideredSherwaniwithKurtaPajamaSet1.jpg",
       "description": "Stunning ethnic jacquard sherwani set for boys with shiny buttons and contrast pyjama pants. Perfect for family celebrations.",
       "features": [
           "Premium Jacquard",
