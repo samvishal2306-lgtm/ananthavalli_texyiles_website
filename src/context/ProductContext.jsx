@@ -44,7 +44,7 @@ export const defaultProducts = [
     "currentPrice": 3500,
     "tag": "Hot",
     "discount": "30% OFF",
-    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?auto=format&fit=crop&q=80&w=600",
+    "image": "https://kundansbridalcouture.com/cdn/shop/files/IMG_81261.png?v=1779032542&width=%7Bwidth%7D",
     "description": "A gorgeous semi-stitched bridal lehenga choli set adorned with heavy embroidery, sequins, and stone work, paired with a matching net dupatta.",
     "features": ["Premium Velvet Base", "Heavy Embroidery", "Matching Net Dupatta", "Customizable Fit"]
   },
@@ -59,7 +59,7 @@ export const defaultProducts = [
     "currentPrice": 1500,
     "tag": "Hot",
     "discount": "32% OFF",
-    "image": "https://images.unsplash.com/photo-1605784401368-5af1d9d6c4dc?auto=format&fit=crop&q=80&w=600",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Wrb9UxGm-PW1zZkihd5HcAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "description": "Classic South Indian cotton veshti with a gold zari border, paired with a matching cream silk-mix formal shirt. Ideal for festivals and weddings.",
     "features": ["Pure Cotton Veshti", "Gold Zari Border", "Premium Silk-Mix Shirt", "Standard Fit"]
   },
